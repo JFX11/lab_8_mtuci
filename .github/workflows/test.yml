@@ -30,4 +30,4 @@ jobs:
 
       # 4. Запустить ТОЛЬКО тесты лабораторной №8
       - name: Запустить тесты лабораторной 8
-        run: pytest lab_8_test -v
+        run: pytest lab_8_test.py -v
